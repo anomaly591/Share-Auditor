@@ -132,6 +132,8 @@ namespace Share_Auditor
                         DirectorySecurity dSecurity = Directory.GetAccessControl(dir);
                         foreach (FileSystemAccessRule rule in dSecurity.GetAccessRules(true, true, typeof(NTAccount)))
                         {
+                            //Console.WriteLine(csvDir + " ::: " + rule.IdentityReference + " [" + rule.AccessControlType + ": " + rule.FileSystemRights + "]"); 
+
                             // Check that the results do not contain numeric ACLs -> msdn.microsoft.com/en-us/library/aa364399.aspx
                             if 
                             (
@@ -167,7 +169,8 @@ namespace Share_Auditor
                         }));
 
                         // Add string to List<string>
-                        logListCSV.Add(csvDir + ", " + csvPermissions);
+                        //logListCSV.Add(csvDir + ", " + csvPermissions);
+                        logListCSV.Add(csvDir + csvPermissions + ", ");
 
                         // Add List<string> to logfile function
                         log.addListToPermissionsLogFile(logListCSV); 
