@@ -1,0 +1,21 @@
+c:\users\jmcdermott\Desktop\Docs\Dev\CSharp\Share Auditor\Share Auditor\bin\Debug\Share Auditor.exe.config
+c:\users\jmcdermott\Desktop\Docs\Dev\CSharp\Share Auditor\Share Auditor\bin\Debug\Share Auditor.exe
+c:\users\jmcdermott\Desktop\Docs\Dev\CSharp\Share Auditor\Share Auditor\bin\Debug\Share Auditor.pdb
+c:\users\jmcdermott\Desktop\Docs\Dev\CSharp\Share Auditor\Share Auditor\obj\Debug\Share_Auditor.Form1.resources
+c:\users\jmcdermott\Desktop\Docs\Dev\CSharp\Share Auditor\Share Auditor\obj\Debug\Share_Auditor.Properties.Resources.resources
+c:\users\jmcdermott\Desktop\Docs\Dev\CSharp\Share Auditor\Share Auditor\obj\Debug\Share Auditor.csproj.GenerateResource.Cache
+c:\users\jmcdermott\Desktop\Docs\Dev\CSharp\Share Auditor\Share Auditor\obj\Debug\Share Auditor.exe
+c:\users\jmcdermott\Desktop\Docs\Dev\CSharp\Share Auditor\Share Auditor\obj\Debug\Share Auditor.pdb
+C:\Users\jmcdermott\Desktop\Docs\Dev\CSharp\Share Auditor\Share Auditor\obj\Debug\Share_Auditor.UC_Audit.resources
+C:\Users\jmcdermott\Desktop\Docs\Dev\CSharp\Share Auditor\Share Auditor\obj\Debug\Share_Auditor.UC_Progress.resources
+C:\Users\James\Google Drive\Design & Development\C#\Share Auditor\Share Auditor\bin\Debug\Share Auditor.exe.config
+C:\Users\James\Google Drive\Design & Development\C#\Share Auditor\Share Auditor\obj\Debug\Share Auditor.exe
+C:\Users\James\Google Drive\Design & Development\C#\Share Auditor\Share Auditor\obj\Debug\Share Auditor.pdb
+C:\Users\James\Google Drive\Design & Development\C#\Share Auditor\Share Auditor\bin\Debug\Share Auditor.exe
+C:\Users\James\Google Drive\Design & Development\C#\Share Auditor\Share Auditor\bin\Debug\Share Auditor.pdb
+C:\Users\James\Google Drive\Design & Development\C#\Share Auditor\Share Auditor\obj\Debug\Share Auditor.csprojResolveAssemblyReference.cache
+C:\Users\James\Google Drive\Design & Development\C#\Share Auditor\Share Auditor\obj\Debug\Share_Auditor.Form1.resources
+C:\Users\James\Google Drive\Design & Development\C#\Share Auditor\Share Auditor\obj\Debug\Share_Auditor.Properties.Resources.resources
+C:\Users\James\Google Drive\Design & Development\C#\Share Auditor\Share Auditor\obj\Debug\Share_Auditor.UC_Audit.resources
+C:\Users\James\Google Drive\Design & Development\C#\Share Auditor\Share Auditor\obj\Debug\Share_Auditor.UC_Progress.resources
+C:\Users\James\Google Drive\Design & Development\C#\Share Auditor\Share Auditor\obj\Debug\Share Auditor.csproj.GenerateResource.Cache

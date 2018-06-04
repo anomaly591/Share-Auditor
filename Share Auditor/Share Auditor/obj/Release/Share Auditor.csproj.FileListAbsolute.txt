@@ -1,0 +1,22 @@
+C:\Users\jmcdermott\Desktop\Docs\Dev\CSharp\Share Auditor\Share Auditor\bin\Release\Share Auditor.exe.config
+C:\Users\jmcdermott\Desktop\Docs\Dev\CSharp\Share Auditor\Share Auditor\bin\Release\Share Auditor.exe
+C:\Users\jmcdermott\Desktop\Docs\Dev\CSharp\Share Auditor\Share Auditor\bin\Release\Share Auditor.pdb
+C:\Users\jmcdermott\Desktop\Docs\Dev\CSharp\Share Auditor\Share Auditor\obj\Release\Share_Auditor.Form1.resources
+C:\Users\jmcdermott\Desktop\Docs\Dev\CSharp\Share Auditor\Share Auditor\obj\Release\Share_Auditor.Properties.Resources.resources
+C:\Users\jmcdermott\Desktop\Docs\Dev\CSharp\Share Auditor\Share Auditor\obj\Release\Share_Auditor.UC_Audit.resources
+C:\Users\jmcdermott\Desktop\Docs\Dev\CSharp\Share Auditor\Share Auditor\obj\Release\Share_Auditor.UC_Progress.resources
+C:\Users\jmcdermott\Desktop\Docs\Dev\CSharp\Share Auditor\Share Auditor\obj\Release\Share Auditor.csproj.GenerateResource.Cache
+C:\Users\jmcdermott\Desktop\Docs\Dev\CSharp\Share Auditor\Share Auditor\obj\Release\Share Auditor.exe
+C:\Users\jmcdermott\Desktop\Docs\Dev\CSharp\Share Auditor\Share Auditor\obj\Release\Share Auditor.pdb
+C:\Users\jmcdermott\Desktop\Docs\Dev\CSharp\Share Auditor\Share Auditor\obj\Release\Share Auditor.csprojResolveAssemblyReference.cache
+G:\Design & Development\Dev - C#\Projects\Share Auditor\Share Auditor\bin\Release\Share Auditor.exe.config
+G:\Design & Development\Dev - C#\Projects\Share Auditor\Share Auditor\obj\Release\Share Auditor.exe
+G:\Design & Development\Dev - C#\Projects\Share Auditor\Share Auditor\obj\Release\Share Auditor.pdb
+G:\Design & Development\Dev - C#\Projects\Share Auditor\Share Auditor\bin\Release\Share Auditor.exe
+G:\Design & Development\Dev - C#\Projects\Share Auditor\Share Auditor\bin\Release\Share Auditor.pdb
+G:\Design & Development\Dev - C#\Projects\Share Auditor\Share Auditor\obj\Release\Share Auditor.csprojResolveAssemblyReference.cache
+G:\Design & Development\Dev - C#\Projects\Share Auditor\Share Auditor\obj\Release\Share_Auditor.Form1.resources
+G:\Design & Development\Dev - C#\Projects\Share Auditor\Share Auditor\obj\Release\Share_Auditor.Properties.Resources.resources
+G:\Design & Development\Dev - C#\Projects\Share Auditor\Share Auditor\obj\Release\Share_Auditor.UC_Audit.resources
+G:\Design & Development\Dev - C#\Projects\Share Auditor\Share Auditor\obj\Release\Share_Auditor.UC_Progress.resources
+G:\Design & Development\Dev - C#\Projects\Share Auditor\Share Auditor\obj\Release\Share Auditor.csproj.GenerateResource.Cache
