@@ -7,6 +7,7 @@ Share Auditor is a portable Windows application and will run the audit scan unde
 **Recommended Minimum Requirements**
 
 Operating System: Windows 7 or higher, Windows 2008 R2 or higher
+
 .NET Framework: 4.5 or higher
 
 **Recommended Usage**
