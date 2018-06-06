@@ -19,3 +19,8 @@ Please remember that if the account that launches the application cannot access 
 **Download Portable exe**
 
 http://www.jmcdermott.ie/application-development/Share-Auditor
+
+
+**Application Screenshot**
+
+![alt text](http://www.jmcdermott.ie/images/application-development/Share-Auditor/main.jpg)
