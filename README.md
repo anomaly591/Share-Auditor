@@ -16,11 +16,4 @@ Launch the application under an account which has access to the share being audi
 
 Please remember that if the account that launches the application cannot access a folder, it will be unable to audit any further into that folder, and will simply skip the folder and move on. 
 
-**Download Portable exe**
 
-http://www.jmcdermott.ie/application-development/Share-Auditor
-
-
-**Application Screenshot**
-
-![alt text](http://www.jmcdermott.ie/images/application-development/Share-Auditor/main.jpg)
